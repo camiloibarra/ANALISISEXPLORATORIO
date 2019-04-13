@@ -1,2 +1,22 @@
 DATOS:
-Homicidios 2016: https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-2016/umwz-bt8i
+
+Homicidios 2016: 
+Base de LA Policía Nacional de Colombia, obtenidade la página de datos abiertos
+https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-2016/umwz-bt8i
+
+Población:
+Base del DANE de proyecciones de poblacion a partir del año 2005
+https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion
+
+
+Valor agregado per capita
+terri data dim 12
+
+Pobreza y desigualdad 
+Terridata dim 14
+
+
+Empleo 
+terridata dim 16
+
+
